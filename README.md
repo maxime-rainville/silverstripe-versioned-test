@@ -15,4 +15,4 @@ To install add this to your composer file.
 ...
 ```
 
-Then run `composer install maxime-rainville/silverstripe-versioned-test`.
+Then run `composer require maxime-rainville/silverstripe-versioned-test`.
