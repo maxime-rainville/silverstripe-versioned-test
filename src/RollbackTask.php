@@ -1,6 +1,6 @@
 <?php
 
-namespace VersionnedTest;
+namespace VersionedTest;
 
 use SilverStripe\AssetAdmin\Helper\ImageThumbnailHelper;
 use SilverStripe\ORM\DB;

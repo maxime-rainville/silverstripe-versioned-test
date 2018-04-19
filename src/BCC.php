@@ -1,5 +1,5 @@
 <?php
-namespace VersionnedTest;
+namespace VersionedTest;
 use SilverStripe\ORM\DataObject;
 
 class BCC extends DataObject

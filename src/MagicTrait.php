@@ -1,5 +1,5 @@
 <?php
-namespace VersionnedTest;
+namespace VersionedTest;
 use SilverStripe\Forms\FieldList;
 use SilverStripe\Forms\ReadonlyField;
 use SilverStripe\Versioned\Versioned;

@@ -1,8 +1,8 @@
 <?php
-namespace VersionnedTest;
+namespace VersionedTest;
 use SilverStripe\Admin\ModelAdmin;
 
-class VersionnedTestAdmin extends ModelAdmin
+class VersionedTestAdmin extends ModelAdmin
 {
 
    private static $url_segment = 'versionned-test';
